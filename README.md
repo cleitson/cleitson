@@ -1,8 +1,9 @@
 <div>
-### Hi there 👋
-    
-&nbsp;I’m currently studing at <a href="https://www.betrybe.com/"><img height="18em" src="https://www.betrybe.com/static/images/logo-original.svg">
+ Hi there 👋
+<br><br>
+    I'm currently studying at <a href="https://www.betrybe.com/"><img height="12px" src="https://www.betrybe.com/static/images/logo-original.svg">
 </div>
+<br>
 <!-- <div>
   <a href="https://github.com/cleitson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleitson&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
