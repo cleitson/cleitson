@@ -1,12 +1,17 @@
 <div>
+### Hi there 👋
+    
+&nbsp;I’m currently studing at <a href="https://www.betrybe.com/"><img height="18em" src="https://www.betrybe.com/static/images/logo-original.svg">
+</div>
+<!-- <div>
   <a href="https://github.com/cleitson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleitson&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitson&layout=compact&langs_count=7&theme=nightowl&show_icons=true"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"> 
   
-  <a href="https://www.instagram.com/cleitsonlima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.instagram.com/cleitsonlima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:cleitson.ftw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleitson-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
