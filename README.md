@@ -1,14 +1,13 @@
 <div>
  Hi there 👋
 <br><br>
-    I'm currently studying at <a href="https://www.betrybe.com/" target="_blank"><img height="18em" src="https://www.betrybe.com/static/images/logo-original.svg">
+    I'm currently studying at <a href="https://www.betrybe.com/" target="_blank"><img height="18em" src="https://www.betrybe.com/static/images/logo-original.svg" target="_blank">
 </div>
 <br>
-<!-- <div>
   <a href="https://github.com/cleitson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleitson&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitson&layout=compact&langs_count=7&theme=nightowl&show_icons=true"/>
-</div> -->
+
 
 <div style="display: inline_block"> 
   
