@@ -1,7 +1,7 @@
 <div>
  Hi there 👋
 <br><br>
-    I'm currently studying at <a href="https://www.betrybe.com/"><img height="12px" src="https://www.betrybe.com/static/images/logo-original.svg">
+    I'm currently studying at <a href="https://www.betrybe.com/"><img height="16px" src="https://www.betrybe.com/static/images/logo-original.svg">
 </div>
 <br>
 <!-- <div>
