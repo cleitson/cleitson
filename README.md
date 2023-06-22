@@ -1,7 +1,7 @@
 <div>
  Hi there 👋
 <br><br>
-    I'm currently studying at <a href="https://www.betrybe.com/" target="_blank"><img height="15em" src="https://www.betrybe.com/static/images/logo-original.svg" target="_blank"></a>
+    Atualmente estudando desenvolvimento de software na<a href="https://www.betrybe.com/" target="_blank"> Tribe!</a>
 </div>
 <br>
   <a href="https://github.com/cleitson">
