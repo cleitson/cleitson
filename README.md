@@ -1,9 +1,7 @@
 <div>
  Hi there 👋
 <br><br>
-    Sou formado em Redes de Computadores pela UNIPLAN, onde desenvolvi sólida experiência em informática durante um estágio no Escritório da embaixada da Alemanha. Lá, fui responsável pela manutenção e configuração de computadores, oferecendo suporte local e remoto.
-<br><br>
-Atualmente, estou me aprimorando como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, onde estou focado no meu segundo curso. Tenho me dedicado ao aprendizado e aplicação prática de tecnologias de ponta no desenvolvimento de projetos. No front-end, utilizo HTML, CSS e React para criar interfaces envolventes e responsivas. Na camada de back-end, aprofundo meu conhecimento em Node, Orm Sequelize e MySql, empregando JavaScript e TypeScript para construir sistemas.
+    Sou formado em Redes de Computadores pela UNIPLAN, atualmente, estou me aprimorando como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>, onde estou focado no meu segundo curso. Tenho me dedicado ao aprendizado e aplicação prática de tecnologias de ponta no desenvolvimento de projetos. No front-end, utilizo HTML, CSS e React para criar interfaces envolventes e responsivas. Na camada de back-end, aprofundo meu conhecimento em Node, Orm Sequelize e MySql, empregando JavaScript e TypeScript para construir sistemas.
    
 </div>
 <br>
@@ -14,6 +12,6 @@ Atualmente, estou me aprimorando como desenvolvedor web na <a href="https://www.
 
 <div style="display: inline_block"> 
   
-  <a href="https://www.linkedin.com/in/cleitson-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cleitsonlima/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
   </div>
