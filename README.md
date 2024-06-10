@@ -1,5 +1,5 @@
 <div>
-  < Hello World! 🤟 >
+  < Hello World! 🤟 />
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
    <br><br>
      Me chamo Cleitson, sou formado em Redes de Computadores pela UNIPLAN, atualmente, estou me aprimorando como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>.<br>
