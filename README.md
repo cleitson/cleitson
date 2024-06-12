@@ -2,8 +2,9 @@
   < Hello World! 🤟 />
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
    <br><br>
-     Me chamo Cleitson, sou formado em Redes de Computadores pela UNIPLAN, atualmente, estou me aprimorando como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>.<br>
-     Tenho me dedicado ao aprendizado e aplicação prática de tecnologias de ponta no desenvolvimento de projetos. No front-end, utilizo HTML, CSS e React para criar interfaces envolventes e responsivas, no back-end, aprofundo meu conhecimento em Node com express, Orm   Sequelize e MySql, empregando JavaScript e TypeScript.
+    Meu nome é Cleitson e sou formado em Redes de Computadores pela UNIPLAN. Atualmente, estou aprimorando minhas habilidades como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>.<br>
+    Tenho me dedicado ao aprendizado e à aplicação prática de tecnologias de ponta no desenvolvimento de projetos.
+    No front-end, utilizo HTML, CSS e React para criar interfaces envolventes e responsivas. No back-end, aprofundo meu conhecimento em Node com Express, ORM Sequelize e MySQL, empregando JavaScript e TypeScript.
  <br><br>   
 </div>
 <br><br>
