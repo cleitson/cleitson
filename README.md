@@ -27,13 +27,13 @@
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+<!--
 <h2>Aprendendo</h2>
 
    ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=Kotlin&logoColor=white)
    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
    ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
+-->
 <h2></h2>
 <a href="https://github.com/cleitson">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitson&layout=compact&langs_count=7&theme=nightowl&show_icons=true"/>
