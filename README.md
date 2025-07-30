@@ -2,12 +2,19 @@
   < Hello World! 🤟 />
    <img src="https://github.com/cleitson/cleitson/blob/main/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
    <br><br>
-    Meu nome é Cleitson e sou formado em Redes de Computadores pela UNIPLAN. Atualmente, estou aprimorando minhas habilidades como desenvolvedor web na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>.
-    <br>
-    <br>
-    Tenho me dedicado ao aprendizado e à aplicação prática de tecnologias de ponta no desenvolvimento de projetos.
-    No front-end, utilizo HTML, CSS e React para criar interfaces envolventes e responsivas. No back-end, aprofundo meu conhecimento em Node com Express, ORM Sequelize e MySQL, empregando JavaScript e TypeScript.
- <br><br>   
+    Sou Cleitson, Desenvolvedor Web Full-Stack com formação em Redes de Computadores pela UNIPLAN (2017) e em Desenvolvimento Web pela Trybe (2024), com 1500 horas de formação intensiva.
+<br><br>
+Tenho domínio em tecnologias como React, Next.Js, Node.js, TypeScript, Docker e MySQL, e experiência prática em projetos reais. Como voluntário, contribuí com o desenvolvimento de um site institucional responsivo para a ONG FAM, usando HTML, CSS, JavaScript e Node.js.
+<br><br>
+Antes da transição para o desenvolvimento, atuei como freelancer em manutenção de computadores, desenvolvendo forte capacidade de resolução de problemas e autonomia. Também prestei suporte técnico na GIZ (2016–2017), onde aperfeiçoei o trabalho em equipe e a comunicação com usuários.
+<br><br>
+Tenho leitura técnica avançada em inglês, o que me permite compreender e aplicar documentações, artigos e tutoriais do ecossistema de tecnologia. Estou sempre buscando evoluir meu domínio do idioma para colaborar com times internacionais e atuar em projetos cada vez mais globais.
+<br><br>
+Fora do código, sou apaixonado por jogos online, música, séries e filmes — fontes constantes de criatividade e inspiração.
+<br><br>
+🔗 Confira meus projetos abaixo e no meu <a href="https://cleitson.dev.br">portfólio</a>.
+<br><br>
+Estou sempre aberto a novas conexões, parcerias e oportunidades para construir soluções incríveis juntos! 
 </div>
 <br><br>
 <h2>Contatos</h2>
@@ -21,12 +28,15 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/Typescrypt%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+   ![Next.Js](https://img.shields.io/badge/Next.Js-maker?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black)
    ![Node](https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
 <!--
 <h2>Aprendendo</h2>
 
